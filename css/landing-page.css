@@ -35,8 +35,12 @@ h6 {
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/intro-bg.jpg) no-repeat center center;
+    background: url(../img/site_cover.jpg) no-repeat center center;
     background-size: cover;
+	}
+
+.intro-header > img{
+		opacity: .5;
 }
 
 .intro-message {
@@ -49,6 +53,9 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
+		
+   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: #1A7195;
 }
 
 .intro-divider {
