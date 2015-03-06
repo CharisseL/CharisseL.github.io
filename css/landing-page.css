@@ -30,24 +30,26 @@ h6 {
     font-weight: 400;
 }
 
+
 .intro-header {
     padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
     padding-bottom: 50px;
     text-align: center;
     color: #f8f8f8;
-    background: url(../img/site_cover.jpg) no-repeat center center;
+    background: url(../img/va_nites.jpg) no-repeat center center;
     background-size: cover;
-	}
+	  /*background-color: #ffffff;
+ 		border: 1px solid black;
+  	opacity:0.8;*/
 
-.intro-header > img{
-		opacity: .5;
-}
+
+	}
 
 .intro-message {
     position: relative;
     padding-top: 20%;
     padding-bottom: 20%;
-}
+	}
 
 .intro-message > h1 {
     margin: 0;
@@ -55,7 +57,7 @@ h6 {
     font-size: 5em;
 		
    -webkit-text-stroke-width: 1px;
-   -webkit-text-stroke-color: #1A7195;
+   -webkit-text-stroke-color: black;
 }
 
 .intro-divider {
