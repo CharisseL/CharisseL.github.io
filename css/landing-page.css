@@ -98,6 +98,12 @@ h6 {
     letter-spacing: 2px;
 }
 
+.img-responsive-cnl {
+		border: 1px solid #818287;
+		-webkit-border-radius: 12px;
+}
+
+
 .content-section-a {
     padding: 50px 0;
     background-color: #f8f8f8;
@@ -140,6 +146,7 @@ h6 {
     float: right;
     margin-top: 0;
 }
+
 
 @media(max-width:1199px) {
     ul.banner-social-buttons {
