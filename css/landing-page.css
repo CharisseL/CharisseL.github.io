@@ -103,6 +103,12 @@ h6 {
 		-webkit-border-radius: 12px;
 }
 
+.img-responsive-snkr {
+		border: 1px solid #818287;
+		-webkit-border-radius: 12px;
+		width: 300px;
+}
+
 
 .content-section-a {
     padding: 50px 0;
