@@ -191,6 +191,11 @@ ul {
 	font-weight: 400;	
 }
 
+li {
+	list-style-type: none;
+
+}
+
 footer {
     padding: 50px 0;
     background-color: #f8f8f8;
