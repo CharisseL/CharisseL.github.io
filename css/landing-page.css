@@ -22,7 +22,7 @@ h6 {
 }
 
 .topnav {
-    font-size: 14px; 
+    font-size: 14px;
 }
 
 .lead {
@@ -52,7 +52,7 @@ h6 {
     margin: 0;
     text-shadow: 2px 2px 3px rgba(0,0,0,0.6);
     font-size: 5em;
-		
+
    -webkit-text-stroke-width: .5px;
    -webkit-text-stroke-color: black;
 }
@@ -104,7 +104,7 @@ img.techlogo {
   padding: 4px 5px;
   border: 1px solid #D0D0D0;
   background: #f2f2f2;
-  margin: 3px 1px;	
+  margin: 3px 1px;
 }
 
 .img-responsive-cnl {
@@ -122,7 +122,7 @@ p.project {
 	position: relative;
 	right: -30px;
 	top: -20px;
-	font-weight: 400;	
+	font-weight: 400;
 }
 
 .content-section-a {
@@ -141,6 +141,12 @@ p.project {
 }
 
 .section-heading-spacer {
+    float: left;
+    width: 200px;
+    border-top: 3px solid #e7e7e7;
+}
+
+.section-heading-spacer-2 {
     float: left;
     width: 200px;
     border-top: 3px solid #e7e7e7;
@@ -197,7 +203,7 @@ p.project {
 ul {
 	list-style-type: none;
 	padding: 5px;
-	font-weight: 400;	
+	font-weight: 400;
 }
 
 footer {
@@ -208,4 +214,3 @@ footer {
 p.copyright {
     margin: 15px 0 0;
 }
-
