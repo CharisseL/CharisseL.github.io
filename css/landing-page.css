@@ -54,7 +54,7 @@ h6 {
     font-size: 5em;
     tcolor: #ffffff;
 
-   -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-width: .55px;
    -webkit-text-stroke-color: #ffffff;
 }
 
