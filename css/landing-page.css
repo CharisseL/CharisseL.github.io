@@ -42,8 +42,6 @@ h6 {
     border: 1px solid black;
 	}
 
-
-
 .intro-message {
     position: relative;
     padding-top: 20%;
@@ -62,10 +60,6 @@ h6 {
     width: 300px;
     border-top: 1px solid #f8f8f8;
     border-bottom: 1px solid rgba(0,0,0,0.2);
-}
-
-.intro-message > h3 {
-    
 }
 
 @media(max-width:767px) {
