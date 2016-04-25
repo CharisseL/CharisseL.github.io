@@ -105,11 +105,8 @@ img.techlogo {
 		border: 1px solid #818287;
 		-webkit-border-radius: 12px;
 }
-
-.img-responsive-snkr {
-		border: .5px solid #818287;
-		-webkit-border-radius: 12px;
-		width: 300px;
+img.resume{
+  color: red;
 }
 
 p.project {
@@ -168,7 +165,6 @@ p.project {
     margin-top: 0;
 }
 
-
 @media(max-width:1199px) {
     ul.banner-social-buttons {
         float: left;
@@ -210,10 +206,7 @@ p.copyright {
 }
 
 h4.expHeader {
-  background-color: #505050;
-  height: 25px;
   text-align: center;
-  color: #ffffff;
 }
 
 img.grid {
