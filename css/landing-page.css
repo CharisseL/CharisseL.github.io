@@ -39,7 +39,6 @@ h6 {
     background: url(../img/cover_colors.jpg);
     background-size: cover;
     background-color: #ffffff;
-    border: 1px solid black;
 	}
 
 .intro-message {
@@ -143,7 +142,7 @@ p.project {
 
 .section-heading-spacer-2 {
     float: left;
-    width: 200px;
+    width: 600px;
     border-top: 3px solid #e7e7e7;
 }
 
@@ -208,4 +207,17 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
+}
+
+h4.expHeader {
+  background-color: #505050;
+  height: 25px;
+  text-align: center;
+  color: #ffffff;
+}
+
+img.grid {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
