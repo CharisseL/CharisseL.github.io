@@ -61,6 +61,10 @@ h6 {
     border-bottom: 1px solid rgba(0,0,0,0.2);
 }
 
+.nav-tabs>li>a:hover {
+  background: #49176d;
+  color: #ffffff;
+}
 @media(max-width:767px) {
     .intro-message {
         padding-bottom: 15%;
@@ -203,10 +207,6 @@ footer {
 
 p.copyright {
     margin: 15px 0 0;
-}
-
-h4.expHeader {
-  text-align: center;
 }
 
 img.grid {
