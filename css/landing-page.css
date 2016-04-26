@@ -105,12 +105,9 @@ img.techlogo {
   margin: 3px 1px;
 }
 
-.img-responsive-cnl {
+.img-responsive-cnl, .ui, .grid {
 		border: 1px solid #818287;
 		-webkit-border-radius: 12px;
-}
-img.resume{
-  color: red;
 }
 
 p.project {
