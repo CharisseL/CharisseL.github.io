@@ -27,8 +27,7 @@ h6 {
 
 
 .lead {
-    font-size: 18px;
-    font-weight: 400;
+    font-size: 16px;
 }
 
 .intro-header {
@@ -105,7 +104,7 @@ img.techlogo {
   margin: 3px 1px;
 }
 
-.img-responsive-cnl, .ui, .grid {
+.img-responsive-cnl, .ui, .grid, .python {
 		border: 1px solid #818287;
 		-webkit-border-radius: 12px;
 }
@@ -208,6 +207,5 @@ p.copyright {
 
 img.grid {
   display: block;
-  margin-left: auto;
   margin-right: auto;
 }
