@@ -71,11 +71,11 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 .sf-menu>li.sfHover>a, .sf-menu>li.current>a, .sf-menu>li>a:hover {
-	color: #dd6d8c;
+	color: #996699;
 }
 
 .sf-menu>li.sfHover>a:after, .sf-menu>li.current>a:after, .sf-menu>li>a:hover:after {
-	border-top-color: #dd6d8d;
+	border-top-color: #996699;
 }
 
 
@@ -95,7 +95,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	display: block;
 }
 
-.sf-menu>li.current>a.sf-with-ul:after, 
+.sf-menu>li.current>a.sf-with-ul:after,
 .sf-menu>li.sfHover>a.sf-with-ul:after {
 	background-position: 0 0;
 }
@@ -123,7 +123,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 }
 
 
- 
+
 .sf-menu>li>ul>li>a.sf-with-ul:after {
 	content: '';
     font-family: 'FontAwesome';
@@ -145,7 +145,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 /*================================>> 2 Level <<========================================*/
 .sf-menu li ul,.sf-menu li.sfHover>ul{
 	left: 0;
-	z-index: 999; 
+	z-index: 999;
 	width: 144px;
 	padding-top: 12px;
 	background: url(../images/sub_bg.png) 0 0 repeat;
@@ -174,7 +174,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 .sf-menu li ul li a{
 	position: static;
 	z-index: 999;
-	color: #474243;	
+	color: #474243;
 	font-weight: normal;
 }
 
@@ -182,8 +182,8 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 
-.sf-menu li li a:hover, 
-.sf-menu li.sfHover li.sfHover>a {  
+.sf-menu li li a:hover,
+.sf-menu li.sfHover li.sfHover>a {
 	color: #fff;
 }
 
@@ -238,12 +238,12 @@ nav{ position:relative;padding: 0px 0 0 0;}
 		color:#927c67;
 		margin: 0 auto;
 		padding-left: 0 !important;
-		
-	
+
+
 	}
 
 
-	
+
 
   header nav ul {
   	border: none;
@@ -261,6 +261,6 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	    display: block !important;
 		border:2px solid #090909;
 	}
-	
+
 
 }

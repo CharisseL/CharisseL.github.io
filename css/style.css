@@ -72,7 +72,7 @@ input {
 
 
 h1, h2, h3, h4, h5, h6 {
-    color: #dd6d8c;
+    color: #996699;
     font-weight: bold;
 
     text-align: center;
@@ -221,7 +221,7 @@ a {
 }
 
 a:hover {
-    color: #fe7676;
+    color: #996699;
 }
 
 .btn {
@@ -347,7 +347,6 @@ header h1 {
     float: left;
 }
 
-
 header h1 a {
     display: inline-block;
     overflow: hidden;
@@ -391,7 +390,7 @@ header h1 a img {
 
 /*Blocks*/
 .block1 {
-    background-color: #5654a4;
+    background-color: #660066;
     color: #fff;
     font-size: 36px;
     line-height: 35px;
@@ -490,7 +489,7 @@ header h1 a img {
     position: absolute;
     bottom: 0;
     right: 0;
-    background-color: rgba(190,114,134,0.63);
+    background-color: #660066;
     color: #fff;
     font: 300 30px/35px 'BenchNine', 'sans-serif';
     padding: 3px 0 8px 30px;
@@ -565,15 +564,15 @@ header h1 a img {
 /**Map**/
 
 .color1 {
-    color: #dd6d8c;
+    color: #996699;
 }
 
 .color1 a:hover, a.color1:hover {
-    color: #7e7a7a;
+    color: #fff;
 }
 
 .color2 {
-    color: #7e7a7a;
+    color: #fff;
 }
 
 .td_und {

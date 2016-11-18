@@ -16,7 +16,7 @@ body {
 	letter-spacing: -1px;
 }
 
-#form .invalid .error-message, 
+#form .invalid .error-message,
 #form .empty .empty-message {
 	display: block;
 
@@ -30,7 +30,7 @@ a.gal:hover div {
 	display: block;
 }
 
-#form .error-message, 
+#form .error-message,
 #form .empty-message {
 	display: none;
 }
@@ -60,5 +60,5 @@ a.gal:hover img  {
 }
 
 .gal_caption {
-	background-color: #a56375;
+	background-color: #d4af37;
 }
