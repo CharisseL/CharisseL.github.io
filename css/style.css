@@ -168,7 +168,7 @@ h3 {
 }
 .btn-link2 {
 	position: relative;
-	color: #eb5368;
+	color: #00a0af;
 	font-family: 'Georgia', serif;
 	font-size: 15px;
 	line-height: 22px;
@@ -398,7 +398,7 @@ header {
 	background: url(../img/dotted2.png) top center repeat-x;
 }
 .tm_navbar .nav ul ul li a {
-	color: #eb5368;
+	color: #7d3f98;
 	text-shadow: none;
 }
 .tm_navbar .nav ul ul li a:hover {
@@ -632,7 +632,7 @@ header {
 }
 .list2 > li > a:hover {
 	text-decoration: none;
-	color: #eb5368;
+	color: #00a0af;
 	-webkit-transition: all 0.1s ease;
 	transition: all 0.1s ease;
 }
@@ -999,7 +999,7 @@ hr.line2 {
 	transition: all 0.1s ease;
 }
 .btn-link4:hover {
-	color: #eb5368;
+	color: #00a0af;
 	text-decoration: none;
 	-webkit-transition: all 0.1s ease;
 	transition: all 0.1s ease;
@@ -1113,7 +1113,7 @@ address .info p:first-child {
 }
 .info a:hover {
 	text-decoration: none;
-	color: #eb5368;
+	color: ##00a0af;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
