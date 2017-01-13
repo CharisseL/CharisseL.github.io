@@ -70,7 +70,6 @@ body {
 }
 /*------------links headings-----------*/
 p {
-<<<<<<< HEAD
 	font-family: 'Arial', sans-serif;
 	font-size: 15px;
 	line-height: 22px;
@@ -78,9 +77,6 @@ p {
 	margin: 0;
 	padding: 0;
 	margin-bottom: 11px;
-}
-=======
-    margin-bottom: 20px;
 }
 
 input {
@@ -92,7 +88,6 @@ input {
 .crown{
     max-width: 100%;
 }
-
 
 
 /****Heads****/
@@ -301,18 +296,18 @@ header {
 	z-index: 5;
 }
 .tm_navbar .nav li a:hover, .tm_navbar .nav > li.active > a, .tm_navbar .nav > li.active > a:hover {
-	color: #ffcbd2;
+	color: #00a0af;
 	text-decoration: none;
 }
 .tm_navbar .nav > .active > a, .tm_navbar .nav > .active > a:hover, .tm_navbar .nav > .active > a:focus {
-	color: #ffcbd2;
+	color: #00a0af;
 	background: transparent;
 }
 .tm_navbar .nav > li.sfHover.active > a .sf-sub-indicator, .tm_navbar .nav > li.active > a .sf-sub-indicator {
 	background-position: 0 0;
 }
 .tm_navbar .nav > li.sfHover > a, .tm_navbar .nav > li.sfHover > a:hover, .tm_navbar .nav > li > a:hover, .tm_navbar .nav > li.active > a, .tm_navbar .nav > li.active > a:hover {
-	color: #ffcbd2;
+	color: #00a0af
 	background: transparent;
 }
 /*---------submenu1-------------*/
@@ -326,7 +321,7 @@ header {
 	list-style: none;
 	zoom: 1;
 	z-index: 11;
-	background: #eb5368;
+	background: #00a0af;
 	margin: 0;
 	text-align: center;
 }
@@ -478,7 +473,7 @@ header {
 	transition: all 0.2s ease;
 }
 .box1 {
-	background: #eb5368;
+	background: #7d3f98;
 }
 .box1 figure {
 	width: 100%;
