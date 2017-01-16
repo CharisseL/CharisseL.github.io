@@ -481,6 +481,7 @@ header {
 .box1 figure img {
 	width: 100%;
 }
+
 .box1 p {
 	color: #ffffff;
 }
@@ -492,19 +493,20 @@ header {
 }
 .box2 figure img {
 	width: 100%;
-	height: 216px;
+	height: 215px;
 }
 .box2 p {
 	color: #ffffff;
 }
 .box3 {
-	background: #5bb4d6;
+	background: #00a0af;
 }
 .box3 figure {
 	width: 100%;
 }
 .box3 figure img {
 	width: 100%;
+	height: 215px;
 }
 .box3 p {
 	color: #ffffff;
@@ -1113,7 +1115,7 @@ address .info p:first-child {
 }
 .info a:hover {
 	text-decoration: none;
-	color: ##00a0af;
+	color: #00a0af;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
