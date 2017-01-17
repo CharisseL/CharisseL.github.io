@@ -81,7 +81,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 
 
 
-/*.sf-menu>li>a.sf-with-ul:after {
+.sf-menu>li>a.sf-with-ul:after {
 	position: absolute;
 	content: '';
 	left: 50%;
@@ -139,7 +139,7 @@ nav{ position:relative;padding: 0px 0 0 0;}
 	z-index: 999;
 }
 
-*/
+
 
 
 /*================================>> 2 Level <<========================================*/
