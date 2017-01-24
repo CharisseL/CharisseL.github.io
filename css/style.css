@@ -196,7 +196,7 @@ h3 {
 }
 .btn-link3 {
 	position: relative;
-	color: #eb5368;
+	color: #00a0af;
 	font-family: 'Georgia', serif;
 	font-size: 18px;
 	line-height: 22px;
@@ -524,6 +524,7 @@ header {
 .listbox3 {
 	padding-left: 0;
 }
+
 /*---------list3-------------*/
 .list3 {
 	padding: 0;
@@ -546,9 +547,7 @@ header {
 	display: block;
 	margin-right: 20px;
 }
-.list3 li figure img {
-	width: 100%;
-}
+
 .list3 li .info1 {
 	overflow: hidden;
 	margin-top: 30px;
@@ -1302,7 +1301,7 @@ address .info p:first-child {
 	color: #adadad;
 }
 .privacy_page a:hover {
-	color: #eb5368;
+	color: #00a0af;
 }
 /*404 page*/
 /*404 page*/
@@ -1444,7 +1443,7 @@ footer {
 }
 .footerpriv a:hover {
 	text-decoration: none;
-	color: #eb5368;
+	color: #00a0af;
 }
 /**************** footer end ***************/
 /*----- media queries ------*/
@@ -1471,9 +1470,7 @@ footer {
 	overflow: hidden;
 	margin-top: 46px;
 }
-.box2 figure img {
-	height: 270px;
-}
+
 .container {
 	padding: 0;
 }
