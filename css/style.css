@@ -158,7 +158,7 @@ h4{
 }
 .btn-link2 {
 	position: relative;
-	color: #00a0af;
+	color: #fff952;
 	font-family: 'Georgia', serif;
 	font-size: 15px;
 	line-height: 22px;
@@ -186,7 +186,7 @@ h4{
 }
 .btn-link3 {
 	position: relative;
-	color: #00a0af;
+	color: #fff952;
 	font-family: 'Georgia', serif;
 	font-size: 18px;
 	line-height: 22px;
@@ -288,18 +288,18 @@ header {
 	z-index: 5;
 }
 .tm_navbar .nav li a:hover, .tm_navbar .nav > li.active > a, .tm_navbar .nav > li.active > a:hover {
-	color: #00a0af;
+	color: #fff952;
 	text-decoration: none;
 }
 .tm_navbar .nav > .active > a, .tm_navbar .nav > .active > a:hover, .tm_navbar .nav > .active > a:focus {
-	color: #00a0af;
+	color: #fff952;
 	background: transparent;
 }
 .tm_navbar .nav > li.sfHover.active > a .sf-sub-indicator, .tm_navbar .nav > li.active > a .sf-sub-indicator {
 	background-position: 0 0;
 }
 .tm_navbar .nav > li.sfHover > a, .tm_navbar .nav > li.sfHover > a:hover, .tm_navbar .nav > li > a:hover, .tm_navbar .nav > li.active > a, .tm_navbar .nav > li.active > a:hover {
-	color: #00a0af
+	color: #fff952
 	background: transparent;
 }
 /*---------submenu1-------------*/
@@ -313,7 +313,7 @@ header {
 	list-style: none;
 	zoom: 1;
 	z-index: 11;
-	background: #00a0af;
+	background: #fff952;
 	margin: 0;
 	text-align: center;
 }
@@ -494,7 +494,7 @@ header {
 	color: #ffffff;
 }
 .box3 {
-	background: #00a0af;
+	background: #fff952;
 }
 .box3 figure {
 	width: 100%;
@@ -642,7 +642,7 @@ div.box4 figure img.boximage{
 }
 .list2 > li > a:hover {
 	text-decoration: none;
-	color: #00a0af;
+	color: #fff952;
 	-webkit-transition: all 0.1s ease;
 	transition: all 0.1s ease;
 }
@@ -1004,7 +1004,7 @@ hr.line2 {
 }
 /*--------links------------*/
 .btn-link4 {
-	color: #00a0af;
+	color: #fff952;
 	-webkit-transition: all 0.1s ease;
 	transition: all 0.1s ease;
 }
@@ -1123,7 +1123,7 @@ address .info p:first-child {
 }
 .info a:hover {
 	text-decoration: none;
-	color: #00a0af;
+	color: #fff952;
 	-webkit-transition: all 0.2s ease;
 	transition: all 0.2s ease;
 }
@@ -1307,7 +1307,7 @@ address .info p:first-child {
 	color: #adadad;
 }
 .privacy_page a:hover {
-	color: #00a0af;
+	color: #fff952;
 }
 /*404 page*/
 /*404 page*/
@@ -1453,7 +1453,7 @@ footer {
 }
 .footerpriv a:hover {
 	text-decoration: none;
-	color: #00a0af;
+	color: #fff952;
 }
 li > a.email_icon{
 	color: red;
