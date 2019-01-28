@@ -186,12 +186,12 @@ width:97%
 .camera_next:hover > span {
   background-position: right 0;
 }
-.camera_next > span {
+/*.camera_next > span {
   background: url(../img/camnext.jpg) no-repeat left 0;
 }
 .camera_prev > span {
   background: url(../img/camprev.jpg) no-repeat left 0;
-}
+}*/
 
 
 
